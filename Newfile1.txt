@@ -1,1 +1,0 @@
-3.	Git add -u – stages modified and deleted, without new.  Ye stage karta hai modified ans deleted changes ko agar koi nayi file add kar diye to wo stages nahi honge.
