@@ -1,3 +1,4 @@
-This is index file of version 1
+This is index file of version 5
 
 2.	Git add .  – Stages new and modified, without deleted
+
